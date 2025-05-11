@@ -5,8 +5,6 @@ Este repositório contém um conjunto de dados retirado do Kaggle, originalmente
 ## 🧾 Descrição
 Este conjunto de dados foi coletado em novembro de 2020 a partir de uma linha de produção de fio de cobre. O objetivo principal da coleta e análise dos dados foi identificar a causa raiz de um aumento significativo no número de defeitos observados na produção.
 
-Os dados capturam diversas variáveis relacionadas ao processo industrial de fabricação de fios de cobre, incluindo informações sobre sensores, parâmetros operacionais e variáveis de controle de qualidade.
-
 ## 🎯 Objetivo
 Através da análise deste conjunto de dados, busca-se:
 
